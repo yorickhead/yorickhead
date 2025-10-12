@@ -13,5 +13,5 @@ Go developer passionate about building scalable distributed systems and crafting
 
 <div align="center">
 
-![Codewars Stats](https://github.r2v.ch/codewars?user=osamikoyo&name=true&top_languages=true&stroke=%23b362ff&theme=dark)
+![Codewars Stats](https://github.r2v.ch/codewars?user=osamikoyo&name=true&top_languages=true&theme=nord&stroke=%23000000&bg_color=%231e1e1e&text_color=%23d3d3d3&rank_color=%23808a95)
 </div>
