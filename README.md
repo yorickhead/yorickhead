@@ -4,7 +4,7 @@
 
 </div>
 
-## Osami
+## Yorick
 Go developer passionate about building scalable distributed systems and crafting efficient CLI tools for seamless automation. 
 
 ## Tech
