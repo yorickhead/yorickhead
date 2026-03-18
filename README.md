@@ -1,11 +1,9 @@
 <div align="center">
 
-![](https://media.tenor.com/TRUdEbUZ6SMAAAAj/hello-hi.gif)
-
 </div>
 
 ## Yorick
-Go developer passionate about building scalable distributed systems and crafting efficient CLI tools for seamless automation. 
+Go developer passionate about building scalable distributed systems and crafting efficient CLI tools for seamless automation. I also love system programming in C and often use functional methods in writing code
 
 ## Tech
 - **Languages**: Go, C
